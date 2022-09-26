@@ -10,6 +10,6 @@ public class Exercicio14 {
 
         double tempo = ((double)tamanhoArquivo / velocidadeLink)/ 60;
         JOptionPane.showMessageDialog(null,"Tempo de Download em minutos: " + tempo);
-        
+
     }
 }

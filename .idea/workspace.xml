@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6def999b-7252-4952-a38d-02c2bd50c22b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Aula15/Exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Aula15/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Aula15/Exercicio15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aula15/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aula15/Exercicio12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,48 +48,48 @@
     "last_opened_file_path": "C:/Users/Rodrigo/Desktop/Projetos/Exercicios-Loiane"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio12">
-    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio09" />
-      <module name="Exercicios-Loiane" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio10" />
-      <module name="Exercicios-Loiane" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio11" />
-      <module name="Exercicios-Loiane" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio15">
     <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio12" />
+      <module name="Exercicios-Loiane" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio13" />
+      <module name="Exercicios-Loiane" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio14" />
+      <module name="Exercicios-Loiane" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula15.Exercicio15" />
       <module name="Exercicios-Loiane" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio15" />
+        <item itemvalue="Application.Exercicio14" />
+        <item itemvalue="Application.Exercicio13" />
         <item itemvalue="Application.Exercicio12" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Exercicio11" />
-        <item itemvalue="Application.Exercicio10" />
-        <item itemvalue="Application.Exercicio09" />
       </list>
     </recent_temporary>
   </component>
